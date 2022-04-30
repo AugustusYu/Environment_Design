@@ -1,6 +1,6 @@
 # Readme
 
-Codes and data for submission "Environment Design for Biased Decision Makers".
+Codes and data for paper "Environment Design for Biased Decision Makers".
 
 
 
